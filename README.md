@@ -1,10 +1,10 @@
 # JavaScript Testing Practice
 
-This project is part of The Odin Project **JavaScript Course**. The goal is to practice writing tests using **Jest** and then implement functions so that all tests pass. :contentReference[oaicite:1]{index=1}
+This project is part of The Odin Project **JavaScript Course**. The goal is to practice writing tests using **Jest** and then implement functions so that all tests pass.
 
 ## Project Overview
 
-You will create a set of utility functions and write corresponding test suites for each of them using **Jest**. The functions include string manipulation, arithmetic operations, cipher logic, and array analysis. :contentReference[oaicite:2]{index=2}
+You will create a set of utility functions and write corresponding test suites for each of them using **Jest**. The functions include string manipulation, arithmetic operations, cipher logic, and array analysis.
 
 ---
 
